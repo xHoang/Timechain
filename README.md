@@ -2,7 +2,7 @@
 ## Timechain - A proof of Existence dApp (w/ IPFS) 
 -----------------------------------------------------
 ### Timechain: A Use Case
-![alt](https://i.imgur.com/nt2yWY7.gifv)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/gC0QFGv" data-context="false" ><a href="//imgur.com/a/gC0QFGv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ### Project Description:
 Showing you own an idea, or a piece of property is hard to prove. You either have to
 go through a third party which can vouch for your story or hope the person you’re
