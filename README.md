@@ -34,7 +34,7 @@ Make sure that you are using a browser that has MetaMask installed. In my exampl
 - truffle
 ```
 npm install -g truffle
-'''
+```
 - ganache-cli
 https://www.trufflesuite.com/ganache 
 Install ganache with the above link
@@ -42,13 +42,16 @@ Install ganache with the above link
 https://github.com/ipfs/go-ipfs#install
 
 #### Running the dApp locally
-Open up two terminals: Here I used Windows Powershell and Linux Subshell
+Open up two terminals: Here I used Windows Powershell and Linux Subshell:
 
 Terminal 1:
+```
 ipfs daemon
+```
 ![alt text](https://i.imgur.com/Ss2FmTg.png)
 
 Terminal 2:
+```
 1. npm i
 2. truffle compile
 3. truffle migrate
@@ -56,7 +59,7 @@ Terminal 2:
 5. npm i
 6. npm start / yarn start
 ![linux-subsystem-pic](https://i.imgur.com/Yy3ybV9.png)
-
+```
 
 #### Troubleshooting:
 -If you are trying to run this program locally then you may encounter this error:
