@@ -1,7 +1,8 @@
 -----------------------------------------------------
 ## Timechain - A proof of Existence dApp (w/ IPFS) 
 -----------------------------------------------------
-
+### Timechain: A Use Case
+![alt](https://imgur.com/o9XG7IK)
 ### Project Description:
 Showing you own an idea, or a piece of property is hard to prove. You either have to
 go through a third party which can vouch for your story or hope the person you’re
@@ -82,3 +83,7 @@ ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '[\"PUT\",\"GET\
 - Javascript,
 - HTML5, CSS3
 - //TODO Add Testnet (Infura)
+
+### Screenshots:
+
+![alt](https://i.imgur.com/FP1wM8w.png)
