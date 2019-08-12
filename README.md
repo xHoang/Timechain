@@ -1,5 +1,8 @@
 -----------------------------------------------------
 ## Timechain - A proof of Existence dApp (w/ IPFS) 
+
+
+- The link requires you to install metamask. It may take a while to load as well. Please be patient! 
 -----------------------------------------------------
 ### Timechain: Uploading a file
 <img src="https://media.giphy.com/media/SSET2PZtIhO1SjGCEg/giphy.gif"/>
