@@ -24,3 +24,7 @@ You need to install Ganache --> Make sure the RPC server is HTTP://127.0.0.1:854
 Have metamask installed in Chrome --> Go to Ganache and get the private key and add it to your MetaMask
 
 Have IPFS installed --> Install IPFS (You need to install go first then run ipfs daemon)
+
+
+
+//Documentation in progress
