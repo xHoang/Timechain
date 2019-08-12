@@ -92,3 +92,10 @@ ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '[\"PUT\",\"GET\
 ### Screenshots:
 
 ![alt](https://i.imgur.com/FP1wM8w.png)
+
+### Design choices:
+
+1. Using openzeppelin's contracts for SafeMath to counteract and make sure that there is no underflow or overflow.
+2. Using a Proxy-Delegate allows a developer to update logic in case of an exploit or wishes to add new features. In this way we can always just stop the proxy contract and release a new one.
+3. We use the Eternal Storage pattern which is where we seperate the Logic contract from the storage contract. Once we have a seperate storage contract, the storage varaibles and the files inside the contract will always remain
+4. Restrict certain functions to owners using the onlyOwner modifier.
