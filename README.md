@@ -58,8 +58,8 @@ Terminal 2:
 4. cd my-app
 5. npm i
 6. npm start / yarn start
-![linux-subsystem-pic](https://i.imgur.com/Yy3ybV9.png)
 ```
+![linux-subsystem-pic](https://i.imgur.com/Yy3ybV9.png)
 
 #### Troubleshooting:
 -If you are trying to run this program locally then you may encounter this error:
