@@ -3,8 +3,11 @@
 -----------------------------------------------------
 ### Timechain: Uploading a file
 <img src="https://media.giphy.com/media/SSET2PZtIhO1SjGCEg/giphy.gif"/>
+
 ### Timechain: Searching a file via it's Hash
+
 <img src="https://media.giphy.com/media/iIemTbaapy63EsxsiU/giphy.gif"/>
+
 ### Project Description:
 Showing you own an idea, or a piece of property is hard to prove. You either have to
 go through a third party which can vouch for your story or hope the person you’re
