@@ -2,7 +2,7 @@
 ## Timechain - A proof of Existence dApp (w/ IPFS) 
 
 
-- The link requires you to install metamask. It may take a while to load as well. Please be patient! 
+- The link requires you to install metamask. and CURRENTLY REQUIRES AN IPFS DAEMON running. Currently working on a none IPFS Daemon needed to be ran
 -----------------------------------------------------
 ### Timechain: Uploading a file
 <img src="https://media.giphy.com/media/SSET2PZtIhO1SjGCEg/giphy.gif"/>
