@@ -1,8 +1,7 @@
 -----------------------------------------------------
 ## Timechain - A proof of Existence dApp (w/ IPFS) 
 
-
-- The link requires you to install metamask. and CURRENTLY REQUIRES AN IPFS DAEMON running. Currently working on a none IPFS Daemon version
+- Powerpoint Viva: http://www.hoangle.xyz/MyVivaSlides%20%283%29-converted.pdf
 
 <img src="https://i.imgur.com/u9g8wei.png"/>
 -----------------------------------------------------
